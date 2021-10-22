@@ -1,0 +1,13 @@
+@import './normalize.scss';
+@import './variables.scss';
+
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;600&display=swap');
+
+body {
+  background-color: #fff;
+}
+.container {
+  max-width: 1170px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
